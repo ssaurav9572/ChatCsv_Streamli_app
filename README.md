@@ -4,7 +4,7 @@ ChatCSV-Streamlit-App An LLM powered ChatCSV Streamlit app so you can chat with 
 How to run the app?
 OpenAI instantly revokes the API key once it detects that the key has been exposed publicly. So, that's the only thing to take care of.
 
-Generate your OpenAI API key here: Click Here
+Generate your OpenAI API key here: https://platform.openai.com/api-keys
 
 Run locally
 If you are running the app locally, then you can freely use the API key.
