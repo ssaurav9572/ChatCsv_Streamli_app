@@ -22,7 +22,6 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 Henceforth make sure to have Streamlit installed in your system. Run the app by:
 
-git clone https://github.com/AIAnytime/ChatCSV-Streamlit-App.git
 cd ChatCSV-Streamlit-App
 pip install -r requirements.txt
 streamlit run app.py
